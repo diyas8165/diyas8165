@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @diyas8165
+- 👋 Hi, I’m Deepa Mahto
 - 👀 I’m interested in JavaSript & HTML5 Development
 - 🌱 I’m currently learning MEAN Stack
 - 💞️ I’m looking to collaborate on Jobs and Freelance Project
